@@ -1,6 +1,6 @@
 ## About the Project
 
-**CrackIT AI Interview Coach** is an AI-powered mock interview platform that helps users prepare for technical and HR interviews through interactive practice sessions. The application supports both text and voice responses, analyzes answers using Natural Language Processing (NLP), and provides instant feedback to improve interview performance and communication skills.
+**CrackIT AI Interview Coach** is an AI-powered mock interview platform designed to simulate real interview experiences and help users build confidence before facing actual interviews. The platform offers 500+ carefully curated interview questions across five specialized question banks—Data Structures & Algorithms (150), Java (100), DBMS (100), Operating Systems (75), and HR (75)—allowing users to practice a wide range of technical and behavioral topics. With support for both voice and text-based responses, the application leverages Natural Language Processing (NLP) to evaluate answers, generate instant scores, and provide personalized feedback. By tracking performance over time, CrackIT AI enables users to identify areas for improvement, strengthen their communication skills, and approach interviews with greater confidence.
 
 ## What the Project Does
 
